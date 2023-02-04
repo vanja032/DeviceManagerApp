@@ -1,0 +1,10 @@
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\bin\Debug\DeviceManagerApp.exe.config
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\bin\Debug\DeviceManagerApp.exe
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\bin\Debug\DeviceManagerApp.pdb
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\Strahinja.DeviceManager.resources
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DeviceManagerApp.Properties.Resources.resources
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DeviceManagerApp.exe
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DeviceManagerApp.pdb
+C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache

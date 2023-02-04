@@ -1,0 +1,6 @@
+Redni broj: 1; Marka: Asus; Naziv: Asus X751SV-TY001D; Ekran: 17.3; Kamera: Da|laptop_asus_x751sv-ty001d_17-3-pentium_qc_n3710-4gb-1tb-gf_920mx_1gb-dvdrw_black-1507040466-888.png
+Redni broj: 2; Marka: HP; Naziv: 250 G5; Ekran: 15.6; Kamera: Ne|laptop_hp_250_g5_15-6_fhd-i3-5005u-4gb-500gb-r5_m430_2gb-dvdrw_w4m34ea-1507042400-730.png
+Redni broj: 3; Marka: Acer; Naziv: ES1-532G-P8G8; Ekran: 15.6; Kamera: Da|laptop_acer_es1-532g-p8g8_15-6-pentium_qc_n3710-4gb-500gb-gf_920mx_2gb_black-1507040845-616.png
+Redni broj: 4; Marka: Dell; Naziv: Inspiron 15 3552; Ekran: 15.6; Kamera: Da|C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\bin\Debug\dell inspiron laptop.png
+Redni broj: 5; Marka: Lenovo; Naziv: IdeaPad 110-15; Ekran: 15.6; Kamera: Da|C:\Users\Vanja Sretenovic\source\repos\DeviceManagerApp\DesktopApp\bin\Debug\laptop_lenovo_ideapad_v110-15isk_15-6_fhd-i3-6006u-4gb-500gb-r5_m430_2gb-dvdrw_80ud00x4ya-1510565689-216.png
+Redni broj: 55; Marka: Lenovo; Naziv: IdeaPad 7; Ekran: 17.4; Kamera: Da|nemaslike.png
